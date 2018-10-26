@@ -10,33 +10,56 @@
     </originInfo>
     <name>
         <namePart>Sophia Smith Collection</namePart>
-        <role><roleTerm authority="marcrelator">Unit</roleTerm></role>
+        <role>
+            <roleTerm authority="local" type="text">unit</roleTerm>
+        </role>
     </name>
-    <subject authority="lcsh"><topic>World War, 1914-1918--Women</topic></subject>
-    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh87005830"><topic>World War, 1914-1918--War work</topic></subject>
-    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh85147294"><topic>Women--Employment</topic></subject>
-    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh2008005457"><topic>Women blue collar workers</topic></subject>
-    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh85147696"><topic>Women railroad employees</topic></subject>
-    <subject authority="tgn" valueURI="7007568"><geographic>New York, United States</geographic></subject>
-    <abstract type="description">Photographs of women war workers in transportation in New York including images of women mechanics, drivers, and railroad workers. </abstract>
+    <subject authority="lcsh">
+        <topic>World War, 1914-1918</topic>
+        <topic>Women</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh87005830">
+        <topic>World War, 1914-1918</topic>
+        <topic>War work</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh85147294">
+        <topic>Women</topic>
+        <topic>Employment</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh2008005457">
+        <topic>Women blue collar workers</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh85147696">
+        <topic>Women railroad employees</topic>
+    </subject>
+    <subject authority="tgn" valueURI="http://vocab.getty.edu/tgn/7007568">
+        <geographic>New York</geographic>
+    </subject>
+    <abstract type="description">Photographs of women war workers in transportation in New York including images of women mechanics, drivers, and railroad workers.</abstract>
     <abstract type="arrangement">New York women war workers photographs are arranged as follows: 
         <list type="simple">
             <item>Brooklyn Rapid Transit</item>
             <item>Bush Terminal, Brooklyn</item>
             <item>Transportation, New York City</item>
-        </list></abstract>
+        </list>
+    </abstract>
     <accessCondition type="use and reproduction" displayLabel="Collection Use and Reproduction">To the extent that they own copyright, YWCA of the U.S.A. has retained copyright in their works donated to Smith College. Copyright in other items in this collection may be held by their respective creators.</accessCondition>
-    <accessCondition type="use and reproduction" displayLabel="Object Use and
-        Reproduction">Copyright restrictions may apply to this file, as these items were created by third-party individuals
-        and organizations.</accessCondition>
+    <accessCondition type="use and reproduction" displayLabel="Object Use and Reproduction">Copyright restrictions may apply to this file, as these items were created by third-party individuals and organizations.</accessCondition>
     <accessCondition type="restriction on access" displayLabel="Collection Access">This collection is open for use without restriction beyond the standard terms and conditions of Smith College Special Collections.</accessCondition>
     <location><shelfLocator>Box 1038: Series 1, Folder 13-15</shelfLocator></location>
     <identifier type="local">smith_ssc_324_digital_object_672</identifier>
     <identifier type="asdouri">https://archivesspace.smith.edu/digital_objects/672#tree::digital_object_672</identifier>
     <identifier type="asouri">https://archivesspace.smith.edu/resources/676/edit#tree::archival_object_105443</identifier>
     <identifier type="asrefid">f41a1c20fd482e03386b7d2bf4fc2fd8</identifier>
-    <relatedItem type="host" displayLabel="Collection">YWCA of the U.S.A. photographic records</relatedItem>
-    <relatedItem type="host" displayLabel="Collection"><identifier type="uri" displayLabel="Finding aid"></identifier>http://asteria.fivecolleges.edu/findaids/sophiasmith/mnsss292rg9.html</relatedItem>
-    <location><physicalLocation>Smith College Special Collections</physicalLocation></location>
+    <relatedItem type="host" displayLabel="Collection">
+        <titleInfo>
+            <title>YWCA of the U.S.A. photographic records</title>
+        </titleInfo>
+        <identifier>MS 0324 rg9</identifier>
+        <identifier type="uri" displayLabel="Finding aid">http://asteria.fivecolleges.edu/findaids/sophiasmith/mnsss292rg9.html</identifier>
+    </relatedItem>
+    <location>
+        <physicalLocation>Smith College Special Collections</physicalLocation>
+    </location>
 </mods>
 
